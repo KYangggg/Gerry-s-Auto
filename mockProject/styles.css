@@ -1,0 +1,105 @@
+.bigHeading {
+  color: #ffffff;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 5rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.bigHeading2 {
+  color: #004aad;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 5rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.navbar {
+  background-color: #004aad;
+  /* background: transparent; */
+  padding: 0;
+  z-index: 1;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+  /* color: black !important; */
+  z-index: 1;
+}
+
+.nav-item {
+  padding: 0 30px;
+  justify-content: flex-end;
+  z-index: 1;
+}
+
+.nav-link {
+  font-size: 1.5rem;
+  /* font-family: "Montserrat-Thin"; */
+  font-family: "Montserrat";
+  font-weight: 300;
+  z-index: 1;
+}
+
+.row1 {
+  padding-top: 30%;
+}
+
+.backgroudPic {
+  background-color: #004aad;
+  background-image: url("images/2022FordEdge.png");
+  background-size: cover;
+  height: 50%;
+  width: 100%;
+  position: relative;
+  z-index: -1;
+  background-repeat: no-repeat;
+}
+
+.btn {
+  background-color: #004aad !important;
+  /* padding: 8px 35px; */
+  /* position: relative; */
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+}
+
+.big-headings {
+  color: blue !important;
+}
+
+.bgpic2 {
+  background-color: #004aad;
+  background-image: url("images/silverBlue.jpg");
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  position: relative;
+  z-index: -1;
+  background-repeat: no-repeat;
+}
+
+.evoText{
+  color: #ffffff;
+  margin-top: 80px;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 5rem;
+  font-weight: 900;
+  text-transform: uppercase;
+
+}
+.fordEvoPic{
+  margin-top: 200px;
+}
+
+.evosCabin{
+  margin-top: 50px;
+}
+
+.textBelowPic{
+  color: #ffffff;
+  font-size: 2rem;
+}
